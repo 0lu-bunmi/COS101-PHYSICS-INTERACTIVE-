@@ -1,0 +1,1 @@
+# COS 101 Interactive Physics Calculator\n\nA Python program with five physics operations: speed, acceleration, force, work done, and kinetic energy. Each operation has its own function. A while loop lets the user perform multiple calculations until they choose to stop.\n
